@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a dedicated frontend developer with over a year of hands-on web development experience. My expertise continues to build user-friendly and responsive web applications using technologies such as HTML, CSS, JavaScript and React.
+I am a committed frontend developer with more than two years of practical web development expertise. I still specialize on using HTML, CSS, JavaScript, and React to create user-friendly and responsive web applications.
 
 * 🌍  I'm based in HTML, CSS, JS, React
 * 🖥️  See my portfolio at [Portfolio](http://shaxzod-portfolio.netlify.app/)
