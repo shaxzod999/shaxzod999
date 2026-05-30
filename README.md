@@ -17,7 +17,7 @@ I am a committed frontend developer with more than two years of practical web de
 * 🌍  I'm based in HTML, CSS, JS, React
 * 🖥️  See my portfolio at [Portfolio](http://shaxzod-portfolio.netlify.app/)
 * ✉️  You can contact me at [shaxzodumarov2009@gmail.com](mailto:shaxzodumarov2009@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning React.js
 
 
 <h3 align="left">🛠 Skills:</h3>
